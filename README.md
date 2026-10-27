@@ -1,5 +1,5 @@
-Stetsom DB800.1 4ohms
-Stetsom IR400.4
+Stetsom DB800.1 4ohms;
+Stetsom IR400.4;
 Stetsom IR160.2 RCA
 
 Bateria: 2x 70aH AGM Moura
